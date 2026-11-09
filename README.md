@@ -7,11 +7,11 @@ I'm a software engineer passionate about building reliable backend systems, desi
 
 I enjoy understanding how things work under the hood, debugging complex issues, and contributing to projects that make a difference.
 
-- 💻 Focused on backend engineering and system design.
-- ⚙️ Experienced in building REST APIs, microservices, and multi-tenant applications.
-- 🔍 Enjoy debugging production issues and improving application performance.
-- 🌱 Currently exploring system design, distributed systems, and open-source development.
-- 🤝 Interested in collaborating on meaningful open-source projects.
+- 💻 Backend-focused, with experience building full-stack applications and end-to-end features.
+- ⚙️ Experienced in developing REST APIs, microservices, multi-tenant applications, and interactive frontend interfaces.
+- 🔍 Enjoy debugging complex issues, improving application performance, and understanding systems under the hood.
+- 🌱 Currently exploring system design, distributed systems, and modern software architecture.
+- 🤝 Interested in contributing to open-source projects and collaborating with engineering teams.
 
 ---
 
@@ -19,12 +19,13 @@ I enjoy understanding how things work under the hood, debugging complex issues, 
 
 - **Languages:** JavaScript, TypeScript, C++, Python, Java
 - **Backend:** Node.js, Express.js, REST APIs, Microservices, JWT, RBAC
+- **Frontend:** HTML, CSS, React.js, Redux
 - **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
 - **Tools & Technologies:** Git, Docker, GitHub Actions, AWS, Redis, Postman
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
 **Event-Driven Order & Inventory System**
 
